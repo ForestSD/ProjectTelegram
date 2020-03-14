@@ -12,7 +12,6 @@ public class MyFireBaseMessageService extends FirebaseMessagingService {
 
     @Override
     public void onMessageReceived(RemoteMessage remoteMessage) {
-
         Bundle bundle = new Bundle();
         bundle.putString("msgBody", remoteMessage.getNotification().getBody());
 
