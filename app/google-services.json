@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1039163292890",
+    "firebase_url": "https://chatprogram-f28e0.firebaseio.com",
+    "project_id": "chatprogram-f28e0",
+    "storage_bucket": "chatprogram-f28e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039163292890:android:60c4c17d89d38738d1b9e3",
+        "android_client_info": {
+          "package_name": "com.example.projecttelegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039163292890-6t40h4bv4935ji2ljnr1tcfqcar1jqad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projecttelegram",
+            "certificate_hash": "39616bfa173a555ba08691761b111b5320eeb71a"
+          }
+        },
+        {
+          "client_id": "1039163292890-k9e7celp32s0va7opma6ust3g2mhq2f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWhX9xKFjLUvJzu2DoyIR3Pq96x6Zd3Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039163292890-k9e7celp32s0va7opma6ust3g2mhq2f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
